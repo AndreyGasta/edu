@@ -13,4 +13,4 @@ module Library =
   ///
   /// ## Parameters
   ///  - `num` - whatever
-  let hello = 42
+  let hello num = 42
